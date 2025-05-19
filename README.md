@@ -1,6 +1,6 @@
 # This repository is an attempt to finetune StyleTTS2 on Nigeria accented English
 
-Audio samples: [Samples](https://github.com/benjaminogbonna/styletts2-finetuned)
+Audio samples: [Samples](https://github.com/benjaminogbonna/styletts2-finetuned/tree/master/samples)
 
 Model Repo: [Hugging Face](https://huggingface.co/benjaminogbonna/tts_demo_models)
 
